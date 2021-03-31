@@ -2,3 +2,4 @@
 Specifikáció megírás
 fejlesztés elkezése
 befejeztük a fejlesztést
+tesztelünk 
